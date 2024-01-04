@@ -15,7 +15,7 @@
   [Built to have a database (Not included in the commit)]
 
 - **Feature 3:**
-  [Persistence achived using Java Maven]
+  [Persistence achived using Java]
 
 ## Team Members
 
