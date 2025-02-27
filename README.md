@@ -4,7 +4,7 @@
 
 🚀 **Hackathon: [Chemical X]**
 
-[Project Name] is the result of an intense 24-hour hackathon session during our bootcamp. This collaborative effort involved a team of five individuals.
+[Chemical X] is the result of an intense 24-hour hackathon session during our bootcamp. This collaborative effort involved a team of five individuals.
 
 ## Features
 
